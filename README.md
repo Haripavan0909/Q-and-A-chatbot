@@ -79,3 +79,16 @@ This project combines the power of Retrieval-Augmented Generation (RAG) with mod
 - Requires good chunking strategy for large docs
 
 - Internet connection required for APIs
+
+
+# **🚀 How to Run**
+
+Once you’ve completed the setup, run the following commands:
+
+**1️⃣ Run the RAG pipeline directly**
+
+>> python rag_pipeline.py
+
+**2️⃣ Launch the Streamlit Web App**
+
+>> streamlit run app.py
